@@ -1,1 +1,6 @@
-### My Project
+# My Project
+
+## Contributers
+
+- Sasha (cool guy)
+- Siraj (nigga)
